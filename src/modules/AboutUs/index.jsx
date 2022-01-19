@@ -26,7 +26,7 @@ const AboutUs = () => {
           <h2 className="text-4xl font-semibold">About Us</h2>
         </div>
         <TwoColumnSection
-          mainUrl="https://preview.colorlib.com/theme/imagine/images/undraw_bookmarks_r6up.svg"
+          mainUrl="https://svgshare.com/i/daQ.svg"
           title="Our Mission"
           subTitle="Eos cumque optio dolores excepturi rerum temporibus magni recusandae eveniet, totam omnis consectetur maxime quibusdam expedita dolorem dolor nobis dicta labore quaerat esse magnam unde, aperiam delectus! At maiores, itaque."
           extraContent={<ExtraContentForTwoColumn />}

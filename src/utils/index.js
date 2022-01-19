@@ -43,7 +43,7 @@ export const features = [
 
 export const featureTwoColumnSectionContent = [{
   id: 'section-1',
-  mainUrl: 'https://preview.colorlib.com/theme/imagine/images/undraw_gift_card_6ekc.svg',
+  mainUrl: 'https://svgshare.com/i/dZJ.svg',
   title: 'Communicate and gather feedback',
   subTitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam.',
   authorCardContent: {
@@ -55,7 +55,7 @@ export const featureTwoColumnSectionContent = [{
 },
 {
   id: 'section-2',
-  mainUrl: 'https://preview.colorlib.com/theme/imagine/images/undraw_metrics_gtu7.svg',
+  mainUrl: 'https://svgshare.com/i/daP.svg',
   title: 'Communicate and gather feedback',
   subTitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam.',
   authorCardContent: {
@@ -67,7 +67,7 @@ export const featureTwoColumnSectionContent = [{
 },
 {
   id: 'section-3',
-  mainUrl: 'https://preview.colorlib.com/theme/imagine/images/undraw_gift_card_6ekc.svg',
+  mainUrl: 'https://svgshare.com/i/dZJ.svg',
   title: 'Communicate and gather feedback',
   subTitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam.',
   authorCardContent: {
@@ -79,7 +79,7 @@ export const featureTwoColumnSectionContent = [{
 },
 {
   id: 'section-4',
-  mainUrl: 'https://preview.colorlib.com/theme/imagine/images/undraw_metrics_gtu7.svg',
+  mainUrl: 'https://svgshare.com/i/daP.svg',
   title: 'Communicate and gather feedback',
   subTitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam.',
   authorCardContent: {

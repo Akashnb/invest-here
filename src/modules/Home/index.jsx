@@ -18,7 +18,7 @@ const Home = () => {
         </div>
         <div className="col-span-2 flex justify-end order-1 md:order-2">
           <img
-            src="https://preview.colorlib.com/theme/imagine/images/undraw_investing_7u74.svg"
+            src="https://svgshare.com/i/d_s.svg"
             alt="img"
           />
         </div>
