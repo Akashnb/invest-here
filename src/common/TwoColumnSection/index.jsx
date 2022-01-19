@@ -11,10 +11,9 @@ const TwoColumnSection = ({
   showReverseColumn,
   extraContent,
 }) => {
-  console.log("5-> showReverseColumn", showReverseColumn, extraContent);
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-      <div className={clsx('order px-5', { "md:order-2": showReverseColumn })}>
+      <div className={clsx("order px-5", { "md:order-2": showReverseColumn })}>
         <img src={mainUrl} alt={mainUrl} />
       </div>
       <div className="mt-5 px-5 md:px-16">

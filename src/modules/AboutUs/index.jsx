@@ -20,7 +20,7 @@ const ExtraContentForTwoColumn = () => {
 
 const AboutUs = () => {
   return (
-    <section id="about-us" className="py-20 bg-bgSecondaryMain">
+    <section id="#aboutus" className="py-20 bg-bgSecondaryLight">
       <div className="max-w-6xl mx-auto h-full">
         <div className="max-w-xl m-auto text-center mb-12">
           <h2 className="text-4xl font-semibold">About Us</h2>

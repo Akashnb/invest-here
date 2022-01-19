@@ -7,7 +7,7 @@ function App() {
   return (
     <>
      <Header />
-     <main className="">
+     <main>
        <ModulesContainer />
      </main>
     </>

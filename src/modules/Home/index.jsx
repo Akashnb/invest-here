@@ -2,7 +2,7 @@ import React from "react";
 
 const Home = () => {
   return (
-    <section id="home" className="h-screen max-w-6xl mx-auto">
+    <section id="#home" className="h-screen max-w-6xl mx-auto">
       <div className="grid grid-cols-1 md:grid-cols-3 md:gap-4 h-screen items-center pt-36 md:pt-0 px-5 md:px-0">
         <div className="order-2 md:order-1">
           <h1 className="text-5xl font-bold mb-3 font-display">

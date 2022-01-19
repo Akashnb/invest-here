@@ -11,6 +11,7 @@ module.exports = {
         textAccentMedium: 'var(--color-medium)',
         bgPrimaryMain: 'var(--color-100)',
         bgSecondaryMain: 'var(--color-200)',
+        bgSecondaryLight: 'var(--color-300)',
       },
       container: {
         padding: {
