@@ -7,7 +7,7 @@ import { features, featureTwoColumnSectionContent } from "../../utils";
 const Features = () => {
   return (
     <>
-      <section id="#features" className="pt-20 pb-10 px-5 md:px-5 md:py-20">
+      <section id="#features" className="px-5 py-20">
         <div className="max-w-6xl mx-auto h-full">
           <div className="max-w-xl m-auto text-center mb-20">
             <h2 className="text-4xl font-semibold mb-3">Imagine Features</h2>
@@ -28,7 +28,7 @@ const Features = () => {
           </div>
         </div>
       </section>
-      <section id="feature-with-two-column-section" className="py-10 md:py-20">
+      <section id="feature-with-two-column-section" className="py-20">
         <div className="max-w-6xl mx-auto h-full space-y-28 md:space-y-52">
           {featureTwoColumnSectionContent.map((cardContent, index) => (
             <TwoColumnSection

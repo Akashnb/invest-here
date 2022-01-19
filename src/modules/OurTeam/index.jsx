@@ -5,8 +5,8 @@ import { TeamMembers } from "../../utils";
 
 const OurTeam = () => {
   return (
-    <section id="#our-team" className="pt-20 pb-10 px-5 md:px-5 md:py-20">
-      <div className="max-w-6xl mx-auto h-full">
+    <section id="#our-team" className="px-5 py-20">
+      <div className="max-w-md md:max-w-6xl mx-auto h-full">
         <div className="max-w-xl m-auto text-center mb-28">
           <h2 className="text-4xl font-semibold mb-3">Our Team</h2>
           <p className="text-lg text-textAccentMedium">

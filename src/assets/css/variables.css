@@ -1,5 +1,5 @@
 :root {
-  --color-accent-main: #4285f4;
+  --color-accent-main: #57b894;
   --color-dark: #000000;
   --color-medium: #808080;
   --color-100: #ffffff;
@@ -9,5 +9,8 @@
   --container-default-padding: 0.75rem;
   --container-xl-padding: 2.5rem;
   
+  --box-shadow-primary: 0 4px 20px -5px rgb(87 184 148 / 40%);
+  --box-shadow-secondary: 0 5px 30px -5px rgb(87 184 148 / 70%);
+
   --font-display: 'Nunito', sans-serif;
 }

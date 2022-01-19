@@ -20,8 +20,8 @@ module.exports = {
         },
       },
       boxShadow: {
-        accentMain: '0 4px 20px -5px rgb(66 133 244 / 40%)',
-        accentMainHover: '0 5px 30px -5px rgb(66 133 244 / 70%)',
+        accentMain: 'var(--box-shadow-primary)',
+        accentMainHover: 'var(--box-shadow-secondary)',
       },
     },
     fontFamily: {
