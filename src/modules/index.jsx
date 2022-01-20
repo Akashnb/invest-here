@@ -5,6 +5,8 @@ import Features from './Features';
 import AboutUs from './AboutUs';
 import OurTeam from './OurTeam';
 import Testimonials from './Testimonials';
+import BlogPosts from './BlogPosts';
+import ContactUs from './ContactUs';
 
 const ModulesContainer = () => {
   return (
@@ -14,6 +16,8 @@ const ModulesContainer = () => {
       <AboutUs />
       <OurTeam />
       <Testimonials />
+      <BlogPosts />
+      <ContactUs />
     </>
   )
 }

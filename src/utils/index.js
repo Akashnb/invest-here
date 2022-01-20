@@ -150,3 +150,31 @@ export const TestimonialContent = [{
   quote: '“Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.”',
   name: 'Kyle McDonald',
 }]
+
+export const Blogs = [{
+  id: 'blog-1',
+  url: 'https://preview.colorlib.com/theme/imagine/images/ximg_2.jpg.pagespeed.ic.f8blglsL85.webp',
+  name: 'Ham Brook',
+  date: '1 1, 2022',
+  title: 'Make Your Business More Profitable',
+  content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendinobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerumvoluptatibus a eius.',
+  blogType: 'News',
+},
+{
+  id: 'blog-2',
+  url: 'https://preview.colorlib.com/theme/imagine/images/ximg_1.jpg.pagespeed.ic.CEoAKbN9Wd.webp',
+  name: 'James Phelps',
+  date: '5 1, 2022',
+  title: 'Make Your Business More Profitable',
+  content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendinobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerumvoluptatibus a eius.',
+  blogType: 'News',
+},
+{
+  id: 'blog-3',
+  url: 'https://preview.colorlib.com/theme/imagine/images/ximg_3.jpg.pagespeed.ic.PYTtDsT5yr.webp',
+  name: 'Tonny robbins',
+  date: '15 1, 2022',
+  title: 'Make Your Business More Profitable',
+  content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendinobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerumvoluptatibus a eius.',
+  blogType: 'News',
+}]

@@ -15,11 +15,11 @@ const Header = () => {
     <Popover
       as="header"
       className={clsx(
-        "transition-all font-display ease-in delay-300 w-full top-0 z-50 bg-white",
+        "transition-all font-display ease-in delay-300 w-full px-5 top-0 z-50 bg-white",
         {
-          "shadow-[4px_0_20px_-10px_rgba(0,0,0,0.25)] p-3 fixed":
+          "shadow-[4px_0_20px_-10px_rgba(0,0,0,0.25)] py-3 fixed":
             scrollPosition,
-          "absolute p-6": !scrollPosition,
+          "absolute py-6": !scrollPosition,
         }
       )}
     >
