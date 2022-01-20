@@ -7,6 +7,7 @@ import OurTeam from './OurTeam';
 import Testimonials from './Testimonials';
 import BlogPosts from './BlogPosts';
 import ContactUs from './ContactUs';
+import Footer from '../common/Footer';
 
 const ModulesContainer = () => {
   return (
@@ -18,6 +19,7 @@ const ModulesContainer = () => {
       <Testimonials />
       <BlogPosts />
       <ContactUs />
+      <Footer />
     </>
   )
 }

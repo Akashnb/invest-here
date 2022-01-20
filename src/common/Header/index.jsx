@@ -26,7 +26,7 @@ const Header = () => {
       <div className="max-w-6xl mx-auto h-full relative">
         <div className="flex items-center justify-between h-15">
           <button
-            className="text-3xl cursor-pointer"
+            className="text-3xl cursor-pointer font-bold text-accentMain"
             onClick={() => handlerScrollTo("#home")}
           >
             Invest Here
