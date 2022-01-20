@@ -43,7 +43,7 @@ export const features = [
 
 export const featureTwoColumnSectionContent = [{
   id: 'section-1',
-  mainUrl: 'https://svgshare.com/i/dZJ.svg',
+  mainUrl: 'https://gist.githubusercontent.com/Akashnb/47ca4c5e0085a7321a47810ae26c0ca0/raw/21e01b8e24c2c54c77010f5c9865a11eb1f59536/image-three.svg',
   title: 'Communicate and gather feedback',
   subTitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam.',
   authorCardContent: {
@@ -55,7 +55,7 @@ export const featureTwoColumnSectionContent = [{
 },
 {
   id: 'section-2',
-  mainUrl: 'https://svgshare.com/i/daP.svg',
+  mainUrl: 'https://gist.githubusercontent.com/Akashnb/1152b49cbe072201e8054e3ac368979a/raw/a4ec5882a84686f5c726ab341a0af6d9f12e84da/image-two.svg',
   title: 'Communicate and gather feedback',
   subTitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam.',
   authorCardContent: {
@@ -67,7 +67,7 @@ export const featureTwoColumnSectionContent = [{
 },
 {
   id: 'section-3',
-  mainUrl: 'https://svgshare.com/i/dZJ.svg',
+  mainUrl: 'https://gist.githubusercontent.com/Akashnb/47ca4c5e0085a7321a47810ae26c0ca0/raw/21e01b8e24c2c54c77010f5c9865a11eb1f59536/image-three.svg',
   title: 'Communicate and gather feedback',
   subTitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam.',
   authorCardContent: {
@@ -79,7 +79,7 @@ export const featureTwoColumnSectionContent = [{
 },
 {
   id: 'section-4',
-  mainUrl: 'https://svgshare.com/i/daP.svg',
+  mainUrl: 'https://gist.githubusercontent.com/Akashnb/1152b49cbe072201e8054e3ac368979a/raw/a4ec5882a84686f5c726ab341a0af6d9f12e84da/image-two.svg',
   title: 'Communicate and gather feedback',
   subTitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam.',
   authorCardContent: {

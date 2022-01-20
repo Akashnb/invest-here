@@ -18,7 +18,7 @@ const Home = () => {
         </div>
         <div className="col-span-2 flex justify-end order-1 md:order-2">
           <img
-            src="https://svgshare.com/i/d_s.svg"
+            src="https://gist.githubusercontent.com/Akashnb/aad2eff22bea94bd4a0a7cc774671f72/raw/33d0e28b0be0c7dc8bab74ce78583f693589af19/image-four.svg"
             alt="img"
           />
         </div>
