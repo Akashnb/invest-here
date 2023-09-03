@@ -5,11 +5,12 @@ const Home = () => (
     <div className="grid grid-cols-1 md:grid-cols-3 md:gap-4 h-screen items-center pt-36 md:pt-0 px-5 md:px-0">
       <div className="order-2 md:order-1">
         <h1 className="text-5xl font-bold mb-3 font-display">
-          Make Your Business More Profitable
+          Empower Your Wealth Journey
         </h1>
         <p className="mb-12 text-base text-textAccentMedium">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
-          assumenda ea quo cupiditate facere deleniti fuga officia.
+          Navigate the world of financial success with us. Explore expert
+          investment strategies, financial planning, and wealth-building
+          techniques. Start your journey today.
         </p>
         <button className="relative transition bg-accentMain px-6 py-3 rounded-full text-white text-base shadow-accentMain hover:shadow-accentMainHover hover:-top-px">
           Get Started

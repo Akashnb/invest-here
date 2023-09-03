@@ -33,7 +33,8 @@ const Footer = () => (
         <a
           href="https://www.linkedin.com/in/akash-bambhaniya/"
           target="_blank"
-          className="text-accentMain font-bold" rel="noreferrer"
+          className="text-accentMain font-bold"
+          rel="noreferrer"
         >
           Akash Bambhaniya
         </a>

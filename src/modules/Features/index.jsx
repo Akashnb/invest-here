@@ -9,10 +9,9 @@ const Features = () => (
     <section id="#features" className="px-5 py-20">
       <div className="max-w-6xl mx-auto h-full">
         <div className="max-w-xl m-auto text-center mb-20">
-          <h2 className="text-4xl font-semibold mb-3">Imagine Features</h2>
+          <h2 className="text-4xl font-semibold mb-3">Features</h2>
           <p className="text-lg text-textAccentMedium">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga quos
-            quaerat sapiente nam, id vero.
+            Discover Our Key Features
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

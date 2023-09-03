@@ -14,12 +14,9 @@ const FeatureCard = ({ icon, title, subTitle }) => (
       <h3 className="text-lg font-medium mb-2 group-hover:text-bgPrimaryMain">
         {title}
       </h3>
-      <p className="text-base text-textAccentMedium mb-4 group-hover:text-bgPrimaryMain">
+      <p className="text-base text-textAccentMedium group-hover:text-bgPrimaryMain">
         {subTitle}
       </p>
-      <span className="text-base text-accentMain cursor-pointer group-hover:text-bgPrimaryMain">
-        Learn More
-      </span>
     </div>
   </div>
 );

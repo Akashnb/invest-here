@@ -9,8 +9,8 @@ const OurTeam = () => (
       <div className="max-w-xl m-auto text-center mb-28">
         <h2 className="text-4xl font-semibold mb-3">Our Team</h2>
         <p className="text-lg text-textAccentMedium">
-          orem ipsum dolor sit amet, consectetur adipisicing elit. Fuga quos
-          quaerat sapiente nam, id vero.
+          Meet our dedicated team driving financial success and client
+          satisfaction
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
