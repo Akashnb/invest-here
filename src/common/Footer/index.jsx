@@ -29,9 +29,9 @@ const Footer = () => (
         </p>
       </div>
       <p className="text-base text-textAccentMedium text-center">
-        Copyright ©2022 All rights reserved | made by{" "}
+        Copyright ©2022 All rights reserved | Made by{" "}
         <a
-          href="https://www.linkedin.com/in/akash-bambhaniya/"
+          href="https://akashb.in/"
           target="_blank"
           className="text-accentMain font-bold"
           rel="noreferrer"

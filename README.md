@@ -57,3 +57,10 @@ We welcome contributions! If you'd like to contribute to the development of Inve
 ## License
 
 Invest Here is open-source and licensed under the [MIT License](LICENSE.md).
+
+
+# Steps to run project
+
+Use node v16
+npm install
+npm start
